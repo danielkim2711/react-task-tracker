@@ -11,6 +11,12 @@
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
       "reminder": false
+    },
+    {
+      "text": "Get up at 6 AM",
+      "day": "Wednesday",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
